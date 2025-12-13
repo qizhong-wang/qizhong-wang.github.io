@@ -42,13 +42,49 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<table>
+  <tr>
+    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
+      <img src="./images/ucm.png" width="80">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <b>University of California, Merced (UCM)</b><br>
+      Ph.D. in Electrical Engineering and Computer Sciences (EECS)
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2026.01 - now</i>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
+      <img src="./images/ucsc.png" width="80">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <b>University of California, Santa Cruz (UCSC)</b><br>
+      M.S. in Computer Science and Engineering
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2024.09 - 2025.12</i>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
+      <img src="./images/hust.png" width="80">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <b>Huazhong University of Science and Technology (HUST)</b><br>
+      B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School<br>
+      GPA: 3.87/4.0
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2020.09 - 2024.06</i>
+    </td>
+  </tr>
+</table>
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
