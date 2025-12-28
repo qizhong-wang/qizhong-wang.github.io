@@ -35,7 +35,7 @@ My research interests lie in <span style="color:#1f77b4;">GPU architecture</span
 - **Security and Performance Implications of GPU Cache Eviction Priority Hints**  
   **Qizhong Wang**, Xiangyue Huang, Yanan Guo, Yuanchao Xu.  
 **Proceedings of the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO), 2025.**  
-[**Code**](https://github.com/qizhong-wang/gpu-eviction-priority-hints.git)
+[**Code**](https://github.com/qizhong-wang/gpu-eviction-priority-hints.git) - **The code is currently private. If you would like access, please contact me after reaching out to the corresponding author.**
 
 
 
